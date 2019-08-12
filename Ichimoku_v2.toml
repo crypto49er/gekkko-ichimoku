@@ -1,0 +1,5 @@
+# Ichimoku settings
+conversionPeriod = 20
+basePeriod = 60
+spanPeriod = 120
+displacement = 30
